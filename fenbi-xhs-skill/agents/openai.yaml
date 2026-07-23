@@ -1,0 +1,4 @@
+interface:
+  display_name: "FenBi XHS Skill"
+  short_description: "按平台底线与优质内容标准审核、诊断并保真优化小红书笔记"
+  default_prompt: "使用 $fenbi-xhs-skill 审核、诊断并保真优化这篇小红书内容。"
